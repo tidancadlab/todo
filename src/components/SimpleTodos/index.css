@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 42px;
+  background-color: #ff8542;
+}
+.container {
+  padding: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 26px;
+  gap: 16px;
+  min-width: 720px;
+}
+h1 {
+  color: #ff8542;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
