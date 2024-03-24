@@ -1,4 +1,7 @@
 /* Write your CSS here */
+:root{
+  --color-primary: #ff8542;
+}
 .main {
   height: 100vh;
   display: flex;
